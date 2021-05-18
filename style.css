@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background: linear-gradient(#1307f5 10%, #f50000 100%);
+    background: linear-gradient(#2979FF 0%, #F44336 100%);
     background-repeat: no-repeat;
 }
 
@@ -44,4 +44,21 @@ p {
 
 .list:hover {
     background-color: chocolate;
+}
+.line {
+    height: 6px;
+    background-color: black;
+    width: 60px;
+    margin: 8px auto;
+}
+.ag:hover{
+  color:darkblue  
+}
+.img{
+    height: 250px;
+    width:200px;
+    margin:20px;
+}
+a{
+    text-decoration: none;
 }
