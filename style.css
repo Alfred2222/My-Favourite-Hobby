@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background: linear-gradient(#2979FF 0%, #F44336 100%);
+  
     background-repeat: no-repeat;
 }
 
@@ -52,7 +52,7 @@ p {
     margin: 8px auto;
 }
 .ag:hover{
-  color:darkblue  
+  color:aliceblue;  
 }
 .img{
     height: 250px;
@@ -61,4 +61,22 @@ p {
 }
 a{
     text-decoration: none;
+}
+#start{
+    background-color:cyan;
+}
+#hobby{
+    background-color: cyan;
+}
+#about{
+    background-color: blue;
+}
+#ga{
+    background-color: blue;
+}
+#work{
+    background-color: crimson;
+}
+#d1{
+    background-color: cyan;
 }
